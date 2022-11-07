@@ -1,4 +1,4 @@
-# Welcome to MS Teams Clone!
+# Welcome to MS Teams Clones!
 
 ### [Example Website](https://chat-app-jsmastery.netlify.app)
 
